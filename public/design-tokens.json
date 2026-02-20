@@ -1,0 +1,43 @@
+{
+  "colors": {
+    "text": "#F5F5F5",
+    "accent": "#FF3347",
+    "border": "#2E2E2E",
+    "primary": "#E8001D",
+    "surface": "#1A1A1A",
+    "secondary": "#111111",
+    "background": "#0A0A0A"
+  },
+  "borders": {
+    "color": "#2E2E2E",
+    "width": "1px",
+    "radius": "4px"
+  },
+  "shadows": {
+    "card": "0 8px 32px rgba(0, 0, 0, 0.6)",
+    "hover": "0 16px 48px rgba(232, 0, 29, 0.25)",
+    "button": "0 4px 16px rgba(232, 0, 29, 0.35)"
+  },
+  "spacing": {
+    "element_gap": "24px",
+    "section_padding": "120px 0",
+    "container_max_width": "1280px"
+  },
+  "animation": {
+    "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "duration": "0.6s",
+    "interaction_style": "smooth"
+  },
+  "typography": {
+    "base_size": "16px",
+    "body_font": "Pretendard, 'Noto Sans KR', sans-serif",
+    "line_height": "1.6",
+    "heading_font": "Pretendard, 'Noto Sans KR', sans-serif",
+    "heading_sizes": {
+      "h1": "clamp(40px, 6vw, 80px)",
+      "h2": "clamp(28px, 4vw, 52px)",
+      "h3": "clamp(20px, 2.5vw, 32px)"
+    },
+    "letter_spacing": "-0.02em"
+  }
+}
